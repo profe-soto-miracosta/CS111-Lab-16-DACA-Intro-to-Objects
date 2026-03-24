@@ -1,15 +1,7 @@
-/********************************************
-*	DEVELOPER:	<name>
-* COLLABORATORS: <names>
-*	LAST MODIFIED:	<date>
-********************************************/
-/********************************************
-*	DACArecipient Tester
-*********************************************
-*	PROGRAM DESCRIPTION:
-*	This program is to test methods of the DACArecipient class.
-*********************************************/
-
+/**
+ * This program is to test methods of the DACArecipient class.
+ * @author Your name here
+ */
 class Main 
 {
   public static void main(String[] args) 
