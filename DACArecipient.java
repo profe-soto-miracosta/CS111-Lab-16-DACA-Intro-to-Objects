@@ -1,10 +1,10 @@
 /**
  * Represents one person receiving Deferred Action for Childhood Arrivals (DACA).
  * 
- * <TODO: add @author info here for all group-mates!>
+ * @author Your name here
  *
- *	@version 1.0
- **/
+ * @version 1.0
+ */
 
 //TODO: Complete UML class diagram
 /* UML CLASS DIAGRAM:
